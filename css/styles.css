@@ -1,0 +1,18 @@
+h1 {
+    color: green;
+    border-style: groove;
+    border-color:yellow;
+}
+h2 {
+    color:darkblue;
+    border-style:inset;
+    border-color:brown
+}
+h3 {
+    color:teal;
+    border-style:double;
+    border-color:blueviolet;
+}
+ul {
+    color:blue;
+}
